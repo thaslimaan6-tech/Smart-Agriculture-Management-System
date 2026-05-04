@@ -102,8 +102,8 @@ Install the following:
 
 ### Clone Repository
 
-git clone https://github.com/yourusername/smart-agriculture.git  
-cd smart-agriculture  
+git clone https://github.com/thaslimaan6-tech/Smart-Agriculture-Management-System
+cd smart-Agriculture-Management-System  
 
 ---
 
